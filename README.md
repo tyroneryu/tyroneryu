@@ -19,3 +19,4 @@
   
 </div>
 
+![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
