@@ -16,6 +16,7 @@
   ___
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tyroneryu)](https://solved.ac/tyroneryu/)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyroneryu&layout=compact)
+  ![Stat Chart](https://starchart.cc/{tyroneryu}/{tyroneryu}.svg)
   
 </div>
 
