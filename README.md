@@ -4,20 +4,11 @@
 <div align="center">
 <h3>✉ Contact</h3>
 
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
-<p style="font-size: 18px;">
-  <span style="font-family: Arial, sans-serif;">ryu.tyrone@gmail.com</span>
-</p>
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) &nbsp;&nbsp;&nbsp; ryu.tyrone@gmail.com
 
-![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
-<p style="font-size: 18px;">
-  <span style="font-family: Arial, sans-serif;">(+82) 10-6526-6236</span>
-</p>
+![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000) &nbsp;&nbsp;&nbsp; (+82) 10-6526-6236
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
-<p style="font-size: 18px;">
-  <span style="font-family: Arial, sans-serif;">tyrone_ryu</span>
-</p>
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) &nbsp;&nbsp;&nbsp; tyrone_ryu
 
 </div>
 
