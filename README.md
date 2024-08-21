@@ -38,7 +38,6 @@
 
 # 💻 My Tech Stack
 
-```python
 class TechStack:
     def __init__(self):
         self.operating_systems = ["CentOS", "KALI Linux", "Linux", "Ubuntu", "Mac OS"]
@@ -65,8 +64,6 @@ class TechStack:
 # Example usage
 my_stack = TechStack()
 my_stack.display_stack()
-
-'''
 
 ---
 
