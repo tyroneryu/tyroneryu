@@ -41,14 +41,14 @@
 ```python
 class TechStack:
     def __init__(self):
-        self.operating_systems = ["CentOS", "KALI Linux", "Linux", "Ubuntu", "Mac OS"]
+        self.operating_systems = ["CentOS", "KALI LINUX", "LINUX", "UBUNTU", "MACOS"]
         self.containerization = ["Docker", "Amazon AWS"]
         self.databases = ["MySQL", "MariaDB"]
         self.development_tools = ["Xcode", "Atom"]
         self.programming_languages = ["Python", "C++", "HTML5", "JavaScript", "R"]
-        self.frameworks_and_libraries = ["VUE.js", "django", "react"]
-        self.version_control = ["git"]
-        self.ai_ml = ["chatgpt"]
+        self.frameworks_and_libraries = ["VUE.JS", "DJANGO", "REACT"]
+        self.version_control = ["GIT"]
+        self.ai_ml = ["ChatGPT"]
         self.markup_languages = ["Markdown"]
 
     def display_stack(self):
