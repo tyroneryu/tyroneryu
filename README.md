@@ -45,7 +45,7 @@ class TechStack:
         self.containerization = ["Docker", "Amazon AWS"]
         self.databases = ["MySQL", "MariaDB"]
         self.development_tools = ["Xcode", "Atom"]
-        self.programming_languages = ["Python", "C", "C++", "HTML5", "JavaScript", "R"]
+        self.programming_languages = ["Python", "C", "C++", "HTML5", "JavaScript", "TypeScript", "R"]
         self.frameworks_and_libraries = ["VUE.JS", "DJANGO", "REACT"]
         self.version_control = ["GIT"]
         self.ai_ml = ["ChatGPT"]
